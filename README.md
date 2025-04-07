@@ -1,4 +1,5 @@
 #  Hi 👋, I'm Ahmet Fikri
+I'm a passionate BackEnd developer, mostly focused on technologies such as .NET, SQL, and modern DevOps tools. I love building scalable, clean, and efficient applications.
 
 
 ## 🌐 Socials:
