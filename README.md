@@ -1,5 +1,4 @@
-# 💫 About Me:
-Hi 👋, I'm Ahmet Fikri
+#  Hi 👋, I'm Ahmet Fikri
 
 
 ## 🌐 Socials:
